@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" version="1.0.0" id="org.[Felipe Fabricio da Silva].[Lista de Compras Fácil]">
+    <name>Lista de Compras Fácil</name>
+    <description>
+        Aplicativo que tem como objetivo servir para criar uma lista de compras simples, de forma fácil e sem complicações 
+    </description>
+    <author>
+        Felipe Fabricio da Silva
+    </author>
+    <icon src="logoapp.png"/>
+    <gap:splash src="logoapp.png"/>
+</widget>
